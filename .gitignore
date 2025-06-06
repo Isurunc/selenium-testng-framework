@@ -1,0 +1,28 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Reports
+test-output/
+extent-report.html
+
+# OS
+.DS_Store
+Thumbs.db
